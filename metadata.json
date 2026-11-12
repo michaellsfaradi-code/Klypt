@@ -1,0 +1,12 @@
+{
+  "name": "Klypt",
+  "description": "תחנת תקשורת P2P מתקדמת בזמן אמת עם שיתוף סרטונים מסונכרן, זיהוי IP ורשת, העתקה אמינה, שיחות וידאו וצ'אט מהיר.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture",
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
